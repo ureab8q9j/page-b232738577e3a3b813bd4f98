@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "54dfb55982bf96ebebb755cf",
+  "owner": "ureab8q9j",
+  "repo": "page-b232738577e3a3b813bd4f98",
+  "title": "奔星云(To)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b232738577e3a3b813bd4f98",
+      "a": "奔星云(To)",
+      "b": "机场官网线路发布页",
+      "entity": "奔星云(To)",
+      "brand": "奔星云(To)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6d399c3957bbc91aec8c7c55e66e93db091fd0fb45c73068141f2d595bf26d09",
+      "content": {
+        "primary_entity": "奔星云(To)",
+        "keyword1": "奔星云(To)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备可选择对应客户端：Windows 常用 Clash Verge，macOS 可选 ClashX，iOS 用 Shadowrocket，Android 用 Clash Meta，路由器按固件安装相应插件。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按设备数、月流量和线路需求选套餐，进入客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，奔星云(To)提供基础版、旗舰版与团队版三档订阅，月付价格从 ¥15 到 ¥85，年付分别为 ¥150、¥350、¥850。基础版适合单人轻量使用，旗舰版增加 IPLC 专线游戏加速，团队版支持多设备与定制路由。按设备数量、月流量和线路偏好对比套餐，结合客户端文档导入订阅即可。",
+          "AI_FAQ_ANSWER_1": "按同时在线设备数选择：3 台以内选基础版，5 台左右选旗舰版，20 台设备选团队版。月流量也从 100GB 到 1000GB 递增。",
+          "AI_FAQ_ANSWER_2": "套餐支持按月或按年付费。基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。年付价格更划算，可按使用周期选择。",
+          "AI_FAQ_ANSWER_3": "基础版提供普通线路节点池；旗舰版含 IPLC 专线并对游戏加速优化；团队版为 VIP 专属高带宽节点，还可定制企业路由。",
+          "AI_FAQ_ANSWER_4": "基础版 100GB/月，旗舰版 300GB/月，团队版 1000GB/月。日常追剧、浏览网页选基础版基本够用，多设备或高频下载建议旗舰版以上。",
+          "AI_FAQ_ANSWER_5": "导入订阅后，在客户端节点列表中选择对应地区节点即可。不同客户端界面略有差异，具体可参照设备对应的客户端文档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐对设备数量有什么限制？",
+          "AI_FAQ_QUESTION_2": "套餐如何计费？可以按月或按年付吗？",
+          "AI_FAQ_QUESTION_3": "基础版和旗舰版线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "每月流量不够用怎么办？",
+          "AI_FAQ_QUESTION_5": "订阅导入后如何选择节点？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和线路类型三个角度对比套餐，确定适合自己的订阅方案。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备 100GB，旗舰版 5 台设备 300GB，团队版 20 台设备 1000GB。",
+          "AI_FEATURE_TEXT_2": "旗舰版引入 IPLC 专线优化游戏，团队版 VIP 节点适合大带宽办公与直播。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，可按使用周期选择。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "线路类型",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "根据个人设备数量和月流量需求，选择基础版、旗舰版或团队版，参考客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "奔星云(To)提供基础版、旗舰版与团队版三档加速订阅，月流量从 100GB 到 1000GB，设备数量从 3 台到 20 台。旗舰版含 IPLC 专线，团队版支持企业定制路由。按需选择套餐，配合客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "月付低至 ¥15",
+          "AI_HIGHLIGHT_2": "设备数 3 至 20 台",
+          "AI_HIGHLIGHT_3": "旗舰版含专线加速",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版面向多设备与游戏加速需求，团队版为高流量多设备场景提供支持。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据同时在线设备数与每月所需流量，在基础版、旗舰版和团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量额度、设备数量和线路类型，核对是否满足使用场景。",
+          "AI_STEP_TEXT_3": "参照对应设备的客户端文档，导入订阅信息并选择节点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "奔星云(To)套餐总览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mygzybyj.cn",
+    "host": "mygzybyj.cn"
+  },
+  "file_hashes": {
+    "index.html": "c26698f4491482fe0174a247f28cf9007fb33264189c2729fd1102509bcb0f33",
+    "sitemap.xml": "150f4f58eafb44f3b68404b1d7992bc2b52444058d888412e793247d8114b0df",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e5e13d06c6f14d9e620f037083e999dffc9c5b7d8764a85eba4e63c1d4fb02af",
+    "robots.txt": "8cbcd65bac1fceae2244bd6d7eaf4466efac99f469c0b6dd31418f9e561d4745",
+    "9649166a31b6df711b18e1c7d6341d30.txt": "e1952de323a57b892333c647ac73dacc4a8e78c11086de496c06bcbec5e66f83"
+  },
+  "revision": "e87c93b8305447de4469fb40fbf1007e1c09a033a59a05732de5090bec680809"
+}
